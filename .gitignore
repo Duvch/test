@@ -1,0 +1,7 @@
+# Generated test reports
+slashy_test_report.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
