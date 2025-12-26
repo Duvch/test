@@ -1,0 +1,13 @@
+{
+  "chrome": {
+    "enabled": true,
+    "description": "Enable Chrome integration for Slashy Mail testing"
+  },
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp@latest"],
+      "description": "Chrome DevTools MCP for browser automation and debugging"
+    }
+  }
+}
